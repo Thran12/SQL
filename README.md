@@ -1,4 +1,4 @@
-# SQL
+# Problem Statement
 This Repository contains some of the queries which i used in my Job
 In each Country cooperate sector exists. Within this sector,there are different companies. 
 All these companies do some sort of tax filling,billing and loan at the end or start of year. 
